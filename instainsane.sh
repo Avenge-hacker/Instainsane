@@ -1,7 +1,7 @@
 #!/bin/bash
 # Coded by: Avengehacker (Don't change, noob!)
 # www.github.com/Avenge-hacker
-# www.instagram.com/Avengehacker353
+# www.instagram.com/TechnicalAvenge
 
 trap 'store; exit 1;' 2
 
@@ -557,7 +557,6 @@ done
 case "$1" in --resume) resume ;; *)
 
 banner
-checkroot
 dependencies
 start
 multitor
