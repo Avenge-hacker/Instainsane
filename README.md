@@ -1,4 +1,5 @@
-# InstaInsane v1.0
+# New Update v2.0 (Non root)
+#InstaInsane
 ## Author: github.com/Avenge-hacker
 ## IG: instagram.com/Avenge050
 ### Don't copy this code without give me the credits, bitch! 
