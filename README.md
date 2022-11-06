@@ -1,4 +1,4 @@
-# New Update v2.0 (Non root)
+# New Update v2.0 (Non root) Sopported
 #InstaInsane
 ## Author: github.com/Avenge-hacker
 ## IG: instagram.com/Avenge050
