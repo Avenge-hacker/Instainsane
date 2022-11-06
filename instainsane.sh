@@ -58,14 +58,6 @@ fi
 }
 
 
-checkroot() {
-if [[ "$(id -u)" -ne 0 ]]; then
-    printf "\e[1;77mPlease, run this program as root!\n\e[0m"
-    exit 1
-fi
-}
-
-
 dependencies() {
 
 command -v tor > /dev/null 2>&1 || { echo >&2 "I require tor but it's not installed. Run ./install.sh. Aborting."; exit 1; }
