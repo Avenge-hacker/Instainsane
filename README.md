@@ -19,6 +19,7 @@ Instainsane is an Shell Script to perform multi-threaded brute force attack agai
 ```
 git clone https://github.com/Avenge-hacker/instainsane
 cd instainsane
+apt install tor
 chmod +x instainsane.sh
 sudo ./instainsane.sh
 ```
